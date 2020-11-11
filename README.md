@@ -2,6 +2,10 @@
 
 ## Magnet Rush
 
+### Installation
+- Microsoft Visual Studio
+
+### Overview
 - A simple game
 - This game has 3 levels and also has the option for seeing high scores
 - You have to collect certain number of coins within a definite time for winning
